@@ -1,4 +1,4 @@
-import{c as Z,u as ee,a as te,j as e,T as K,r as y}from"./index-CTPLwGQg.js";import{M as ne,S as oe,E as v}from"./ManualSettingsPanel-BwFOQQvs.js";import{l as X,s as H}from"./simulationPlanSettings-CmMcxhZK.js";/**
+import{c as Z,u as ee,a as te,j as e,T as K,r as y}from"./index-Oc5DH46V.js";import{M as ne,S as oe,E as v}from"./ManualSettingsPanel-KHHJg8Q9.js";import{l as X,s as H}from"./simulationPlanSettings-CmMcxhZK.js";/**
  * @license lucide-react v0.453.0 - ISC
  *
  * This source code is licensed under the ISC license.
